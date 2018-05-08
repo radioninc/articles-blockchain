@@ -1,0 +1,25 @@
+{
+  "articles": [
+    {
+      "name": "4 Everyday Industries Blockchain Technology Is Changing",
+      "url": "https://www.entrepreneur.com/article/312779",
+      "image":
+        "https://assets.entrepreneur.com/content/3x2/1300/20180504180109-GettyImages-954188924.jpeg?width=700&crop=2:1"
+    },
+    {
+      "name": "Walmart and Blockchain",
+      "url":
+        "https://rctom.hbs.org/submission/walmart-and-block-chain-it-takes-two-to-mango/",
+      "image":
+        "https://rctom.hbs.org/wp-content/uploads/sites/4/2017/11/Screen-Shot-2017-11-12-at-7.05.27-PM.png"
+    },
+    {
+      "name":
+        "Blockchain in Enterprise: How Companies are Using Blockchain Today",
+      "url":
+        "https://blockchainatberkeley.blog/a-snapshot-of-blockchain-in-enterprise-d140a511e5fd",
+      "image":
+        "https://cdn-images-1.medium.com/max/1600/1*iq1gT6Q8XItV-qdWypU63Q.jpeg"
+    }
+  ]
+}
